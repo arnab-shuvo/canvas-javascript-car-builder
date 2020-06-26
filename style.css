@@ -1,0 +1,18 @@
+.partTitle {
+	padding: 20px 0px 10px 0px;
+	font-size: 20px;
+}
+.partwrapper {
+	background: #cdcdcd;
+	min-height: 100vh !important;
+}
+
+.partHolder:hover {
+	background: #f1f1f16c;
+}
+.partHolder {
+	background: #f1f1f1;
+	border: 1px solid #333;
+	cursor: pointer;
+	min-height: 100px !important;
+}
